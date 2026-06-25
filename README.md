@@ -27,7 +27,7 @@ Simple and fully functional calculator application built in Java using Swing fra
 
 1. **Clone or download the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/Calculator.git
+git clone https://github.com/mdkamran623/Calculator.git
 cd Calculator
 ```
 
